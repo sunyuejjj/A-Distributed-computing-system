@@ -1,0 +1,8 @@
+192.168.0.1 - [10/Aug/2023:13:55:36 +0000] GET http://example.com/page1 200 http://example.com/page1 http://example.com/page1
+192.168.0.2 - [10/Aug/2023:13:56:37 +0000] GET http://example.com/page2 200
+192.168.0.3 - [10/Aug/2023:13:57:38 +0000] POST http://example.com/page3 200
+192.168.0.1 - [10/Aug/2023:13:58:39 +0000] GET http://example.com/page1 200
+192.168.0.4 - [10/Aug/2023:13:59:40 +0000] GET http://example.com/page4 200
+192.168.0.5 - [10/Aug/2023:14:00:41 +0000] POST http://example.com/page5 200
+192.168.0.5 - [10/Aug/2023:14:00:41 +0000] ERROR
+192.168.0.5 - [10/Aug/2023:14:00:41 +0000] ERROR
